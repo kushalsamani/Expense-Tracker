@@ -1,0 +1,47 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+*.log
+
+# Environment variables / credentials
+.env
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled or temporary files
+*.sqlite3
+*.db
+*.pyo
+*.pyd
+*.so
+
+
+# Streamlit cache
+.streamlit/
+
+# Test and coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+
+# MySQL dumps or backup files
+*.sql
+*.bak
+*.dump
+
+# Misc
+*.zip
+*.tar.gz
+*.idea/
